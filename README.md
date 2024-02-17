@@ -1,3 +1,3 @@
 ### Publish Web pertama kali di github 👍
 
-#### Domain about:blank/https://zackyfachrur.github.io/
+#### Domain https://zackyfachrur.github.io/
